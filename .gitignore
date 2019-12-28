@@ -1,2 +1,3 @@
 .idea
-pruebasUnitarias.iml
+*.iml
+target
